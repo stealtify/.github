@@ -52,7 +52,7 @@ The source app is identified via `ConnectivityManager.getConnectionOwnerUid()` (
 
 No analytics SDK. No account. No telemetry.
 
-The app only contacts the update server, external-IP lookup services, and **your** subscription and DNS servers. Details in the [Privacy Policy](https://github.com/stealtify/stealtify/blob/main/docs/legal/PRIVACY.md).
+The app only contacts the update server, external-IP lookup services, and **your** subscription and DNS servers. Details in the [Privacy Policy](https://github.com/stealtify/stealtify/blob/main/docs/PRIVACY.md).
 
 Every build is signed and verified at launch — tampered builds are rejected.
 
@@ -61,10 +61,10 @@ Every build is signed and verified at launch — tampered builds are rejected.
 | | |
 |---|---|
 | 📥 **Download** | [Releases](https://github.com/stealtify/stealtify/releases) · [update.stealtify.app](https://update.stealtify.app) |
-| 📖 **Install** | [INSTALL.md](https://github.com/stealtify/stealtify/blob/main/docs/for_release/INSTALL.md) |
-| 📚 **User guide** | [USER_GUIDE.md](https://github.com/stealtify/stealtify/blob/main/docs/for_release/USER_GUIDE.md) |
-| 📺 **Android TV** | [TV_INSTALL.md](https://github.com/stealtify/stealtify/blob/main/docs/for_release/tv/TV_INSTALL.md) |
-| 🗺️ **Roadmap** | [ROADMAP.md](https://github.com/stealtify/stealtify/blob/main/docs/for_release/ROADMAP.md) |
+| 📖 **Install** | [INSTALL.md](https://github.com/stealtify/stealtify/blob/main/docs/INSTALL.md) |
+| 📚 **User guide** | [USER_GUIDE.md](https://github.com/stealtify/stealtify/blob/main/docs/USER_GUIDE.md) |
+| 📺 **Android TV** | [TV_INSTALL.md](https://github.com/stealtify/stealtify/blob/main/docs/tv/TV_INSTALL.md) |
+| 🗺️ **Roadmap** | [ROADMAP.md](https://github.com/stealtify/stealtify/blob/main/docs/ROADMAP.md) |
 
 **Requirements:** Android 10+ (API 29), arm64-v8a (phone) · arm64-v8a / armeabi-v7a / x86 (TV).
 

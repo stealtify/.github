@@ -52,7 +52,7 @@ Stealtify — Android-приложение, которое маршрутизи�
 
 Нет SDK аналитики. Нет учётной записи. Нет телеметрии.
 
-Приложение обращается только к серверу обновлений, сервисам определения внешнего IP и к **вашим** серверам подписок и DNS. Подробности — в [Политике конфиденциальности](https://github.com/stealtify/stealtify/blob/main/docs/legal/PRIVACY.md).
+Приложение обращается только к серверу обновлений, сервисам определения внешнего IP и к **вашим** серверам подписок и DNS. Подробности — в [Политике конфиденциальности](https://github.com/stealtify/stealtify/blob/main/docs/PRIVACY.md).
 
 Каждая сборка подписана и проверяется при запуске — поддельные сборки отвергаются.
 
@@ -61,10 +61,10 @@ Stealtify — Android-приложение, которое маршрутизи�
 | | |
 |---|---|
 | 📥 **Скачать** | [Releases](https://github.com/stealtify/stealtify/releases) · [update.stealtify.app](https://update.stealtify.app) |
-| 📖 **Установка** | [INSTALL.ru.md](https://github.com/stealtify/stealtify/blob/main/docs/for_release/INSTALL.ru.md) |
-| 📚 **Руководство** | [USER_GUIDE.ru.md](https://github.com/stealtify/stealtify/blob/main/docs/for_release/USER_GUIDE.ru.md) |
-| 📺 **Android TV** | [TV_INSTALL.ru.md](https://github.com/stealtify/stealtify/blob/main/docs/for_release/tv/TV_INSTALL.ru.md) |
-| 🗺️ **Roadmap** | [ROADMAP.md](https://github.com/stealtify/stealtify/blob/main/docs/for_release/ROADMAP.md) |
+| 📖 **Установка** | [INSTALL.ru.md](https://github.com/stealtify/stealtify/blob/main/docs/INSTALL.ru.md) |
+| 📚 **Руководство** | [USER_GUIDE.ru.md](https://github.com/stealtify/stealtify/blob/main/docs/USER_GUIDE.ru.md) |
+| 📺 **Android TV** | [TV_INSTALL.ru.md](https://github.com/stealtify/stealtify/blob/main/docs/tv/TV_INSTALL.ru.md) |
+| 🗺️ **Roadmap** | [ROADMAP.md](https://github.com/stealtify/stealtify/blob/main/docs/ROADMAP.md) |
 
 **Требования:** Android 10+ (API 29), arm64-v8a (телефон) · arm64-v8a / armeabi-v7a / x86 (TV).
 
