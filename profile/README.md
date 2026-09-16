@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/stealtify/.github/main/profile/assets/logo.png" width="120" alt="Stealtify">
 
 # Stealtify
