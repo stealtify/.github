@@ -1,6 +1,6 @@
 <div align="center">
 
-# Stealtify
+<img src="https://raw.githubusercontent.com/stealtify/.github/main/profile/assets/banner.svg" alt="Stealtify — per-app proxy client for Android" width="100%">
 
 **Per-app proxy client for Android. A different proxy for every app. No root.**
 
