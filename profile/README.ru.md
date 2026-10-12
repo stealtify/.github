@@ -1,6 +1,6 @@
 <div align="center">
 
-# Stealtify
+<img src="https://raw.githubusercontent.com/stealtify/.github/main/profile/assets/banner.ru.svg" alt="Stealtify — Android-клиент маршрутизации трафика" width="100%">
 
 **Per-app прокси-клиент для Android. Каждому приложению — свой прокси. Без root.**
 
